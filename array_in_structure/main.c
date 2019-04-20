@@ -19,7 +19,7 @@ int main(void) {
   };
   int i;
   for(i=0;i<5;++i){
-      printf(’car_crossings[i].hour);
+      printf("Time is now %.2i\n",car_crossings[i].hour);
   }
   return 0;
 }
